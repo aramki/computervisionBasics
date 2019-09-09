@@ -1,6 +1,5 @@
 # computervisionBasics
 Basic python files for Image Processing
 
-initialImageTest - Just some basics on looking at the image as an array, red, blue and green filters etc.
-
-openCV-Basics - Using OpenCV to perform the operations like filters, flip etc.
+The file names should give an idea of what is present in the file. 
+These files are the step by step process by which the topics are introduced in the Computer Vision course from Udacity.
